@@ -1,4 +1,4 @@
-# Guia Completo: Jogo de Adivinhação em JavaScript
+# Guia Completo: Jogo do número secreto em JavaScript
 
 Este é um jogo simples de adivinhação, onde o usuário precisa tentar descobrir um número secreto gerado aleatoriamente pelo sistema. O jogo fornece dicas informando se o número escolhido pelo jogador é maior ou menor que o número secreto.
 
