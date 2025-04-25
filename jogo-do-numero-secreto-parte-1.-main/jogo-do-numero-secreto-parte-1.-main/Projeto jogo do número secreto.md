@@ -203,7 +203,3 @@ while (chute != numeroSecreto) {
 ```
 
 ---
-
-## Fim!
-
-Esse foi o passo a passo da criação de um jogo de adivinhação completo em JavaScript, com boas práticas e interatividade para o usuário.
