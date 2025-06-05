@@ -11,7 +11,6 @@ alert('Olá, seja bem-vindo ao jogo do número secreto');
 ### 📝 Explicação:
 
 * Um simples `alert()` pra mostrar uma mensagem de boas-vindas.
-* Nenhuma lógica ainda, só um toque simpático pro jogador.
 
 ---
 
