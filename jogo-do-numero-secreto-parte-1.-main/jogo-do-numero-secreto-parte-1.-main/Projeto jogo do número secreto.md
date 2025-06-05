@@ -241,12 +241,12 @@ while (chute != numeroSecreto) {
 
 Esse projeto ensina de forma prática:
 
-✅ Variáveis e entrada de dados
-✅ Condicionais (`if/else`)
-✅ Laços (`while`)
-✅ Conversão de dados (string → número)
-✅ Operadores lógicos e ternário
-✅ Geração de número aleatório
-✅ Organização de código com boas práticas
+- ✅ Variáveis e entrada de dados
+- ✅ Condicionais (`if/else`)
+- ✅ Laços (`while`)
+- ✅ Conversão de dados (string → número)
+- ✅ Operadores lógicos e ternário
+- ✅ Geração de número aleatório
+- ✅ Organização de código com boas práticas
 
 ---
