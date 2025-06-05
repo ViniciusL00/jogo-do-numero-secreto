@@ -228,9 +228,9 @@ function gerarNumeroAleatorio() {
 
 ## 📄 Conclusão
 
-- Conceitos fundamentais da lógica de programação com JavaScript.
-- Manipulação de elementos HTML via DOM.
-- Criação e chamada de funções.
-- Uso de condições, laços e contadores.
-- Geração de números aleatórios sem repetição.
-- Controle do fluxo da aplicação via interação do usuário.
+- ✅ Conceitos fundamentais da lógica de programação com JavaScript.
+- ✅ Manipulação de elementos HTML via DOM.
+- ✅ Criação e chamada de funções.
+- ✅ Uso de condições, laços e contadores.
+- ✅ Geração de números aleatórios sem repetição.
+- ✅ Controle do fluxo da aplicação via interação do usuário.
