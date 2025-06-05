@@ -2,9 +2,9 @@
 
 ---
 
-## 🧠 Aula 1: Manipulação de Textos
+## 🧠 Manipulação de Textos
 
-**Objetivo:**  
+**Objetivo:**
 Modificar conteúdo de elementos HTML usando JavaScript.
 
 ### ✏️ Exemplo 1: Alterando um título (h1)
@@ -23,9 +23,9 @@ paragrafo.innerHTML = 'Escolha um número entre 1 a 100';
 
 ---
 
-## ⚙️ Aula 2: Criando uma Função
+## ⚙️ Criando uma Função
 
-**Objetivo:**  
+**Objetivo:**
 Vincular uma função JavaScript a um clique de botão.
 
 ### 🧩 HTML
@@ -44,9 +44,9 @@ function verificarChute() {
 
 ---
 
-## 🔁 Aula 3: Funções com Parâmetros
+## 🔁 Funções com Parâmetros
 
-**Objetivo:**  
+**Objetivo:**
 Evitar repetição de código com funções reutilizáveis.
 
 ### 🛠️ Função
@@ -67,9 +67,9 @@ exibirTextoNaTela('p', 'Escolha um número entre 1 a 100');
 
 ---
 
-## 🎲 Aula 4: Funções com Retorno
+## 🎲 Funções com Retorno
 
-**Objetivo:**  
+**Objetivo:**
 Gerar número aleatório para o jogo.
 
 ```javascript
@@ -80,9 +80,9 @@ function gerarNumeroAleatorio() {
 
 ---
 
-## 🧾 Aula 5: Tipo Booleano
+## 🧾 Tipo Booleano
 
-**Objetivo:**  
+**Objetivo:**
 Comparar valor do chute com o número secreto.
 
 ```javascript
@@ -92,9 +92,9 @@ console.log(chute == numeroSecreto);
 
 ---
 
-## ✅ Aula 6: Verificando o Chute
+## ✅ Verificando o Chute
 
-**Objetivo:**  
+**Objetivo:**
 Verificar se o usuário acertou, errou, e dar feedback.
 
 ```javascript
@@ -116,9 +116,9 @@ function verificarChute() {
 
 ---
 
-## 📊 Aula 7: Contando Tentativas
+## 📊 Contando Tentativas
 
-**Objetivo:**  
+**Objetivo:**
 Mostrar quantas tentativas o usuário fez até acertar.
 
 ```javascript
@@ -143,9 +143,9 @@ function verificarChute() {
 
 ---
 
-## 🔁 Aula 8: Botão de Reiniciar
+## 🔁 Botão de Reiniciar
 
-**Objetivo:**  
+**Objetivo:**
 Permitir reiniciar o jogo após acerto.
 
 ### 🧹 Função para limpar o campo
@@ -170,9 +170,9 @@ document.getElementById('reiniciar').removeAttribute('disabled');
 
 ---
 
-## 🕹️ Aula 9: Reiniciando o Jogo
+## 🕹️ Reiniciando o Jogo
 
-**Objetivo:**  
+**Objetivo:**
 Resetar o jogo com novo número e tentativas.
 
 ### 💻 HTML
@@ -200,9 +200,9 @@ function exibirMensagemInicial() {
 
 ---
 
-## 🧠 Aula 10: Lista de Números Sorteados
+## 🧠 Lista de Números Sorteados
 
-**Objetivo:**  
+**Objetivo:**
 Evitar repetição de números ao sortear.
 
 ### 📋 Lista
